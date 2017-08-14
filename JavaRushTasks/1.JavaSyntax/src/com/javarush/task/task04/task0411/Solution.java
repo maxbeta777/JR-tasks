@@ -13,6 +13,6 @@ public class Solution {
     }
 
     public static void checkSeason(int month) {
-        System.out.println();
+        System.out.println("delete it");
     }
 }
